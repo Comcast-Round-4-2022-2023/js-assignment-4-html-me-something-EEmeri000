@@ -1,1 +1,20 @@
-/* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#mainImage {
+ width: 50%;
+}
+footer {
+    font-size: 12px;
+}
